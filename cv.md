@@ -1,4 +1,4 @@
-![foto](https://raw.githubusercontent.com/Kalinkanya/rsschool-cv/refs/heads/gh-pages/img/img1.jpg)
+![foto](https://disk.yandex.ru/i/c_hcfjlMOM_aAA)
 # **Anna**  
 # **Kudryavceva**  
 **Location:** Volgograd, Russia  
