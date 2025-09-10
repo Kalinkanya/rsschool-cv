@@ -145,7 +145,7 @@ code {
     width: 50%;
     height: 200px;
     background: linear-gradient(rgb(236, 236, 193), rgb(236, 236, 193)) padding-box,
-    linear-gradient(to right, #c04c08, #023d0a) border-box;
+        linear-gradient(to right, #c04c08, #023d0a) border-box;
     border-radius: 20px;
     border: 3px solid transparent;
 }
@@ -187,7 +187,7 @@ code {
 
 @media (max-width: 1024px) {
     .profile-text {
-        font: 38px Forum, sans-serif;
+        font: 42px Forum, sans-serif;
     }
 }
 
@@ -195,6 +195,10 @@ code {
     .container-profile {
         flex-direction: column;
         gap: 20px;
+    }
+
+    .profile-text {
+        font: 38px Forum, sans-serif;
     }
 
     .profile-box {
